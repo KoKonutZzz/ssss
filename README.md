@@ -7,3 +7,5 @@ This example uses the [Gen2 Pipeline Builder](https://github.com/luxonis/depthai
 After installing the requirements, running this pipeline is as simple as:
 
 `python3 rec_only.py -vid ./vid_name.mp4 `
+
+That means you need a video file that is 1024 by 1024 pixels.
