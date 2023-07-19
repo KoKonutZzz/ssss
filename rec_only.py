@@ -14,9 +14,6 @@
 #     name: csl-load-count-ml
 # ---
 
-# %%
-## q_vid test ##
-
 import cv2
 import numpy as np
 import depthai as dai
